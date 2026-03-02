@@ -47,7 +47,7 @@ t2 = Televisor("Sony", 1080, "LED")
 i1 = Instrumento("Guitarra", "Madera", "Cuerda")
 i2 = Instrumento("Flauta", "Metal", "Aire")
 
-#no se imprime televisor ya q no fue pedido en la UML
+#no se imprime anime ya q no fue pedido en la UML
 print("-----Televisor-----")
 print(t1)
 print(t2)
